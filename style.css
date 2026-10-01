@@ -59,6 +59,11 @@ body {
 }
 
 .nav1 a.active {
-	border-bottom: 2px solid #191919;
+    flex-direction: column;
 }
 
+.nav-icon {
+    width: 20px;
+    height: 20px;
+    flex-direction: column;
+}
