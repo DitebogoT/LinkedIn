@@ -71,8 +71,8 @@ body {
 .active-vl{
   border-left: 1px solid rgb(139, 140, 139);
   height: 40px;
-  position: absolute;
-  left: 81%;
+  position: fixed;
+  right: 300px;
   margin-left: -3px;
   top: 0;
   padding: 10px 8%;
